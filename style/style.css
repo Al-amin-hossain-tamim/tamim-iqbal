@@ -5,3 +5,10 @@ h1{
     background-color: blue;
     color: brown;
 }
+h1{
+    color: rgba(36, 210, 30, 0.466);
+}
+#kader{
+    background-color: cornflowerblue;
+    color: chocolate;
+}
